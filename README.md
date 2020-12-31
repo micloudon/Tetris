@@ -8,6 +8,8 @@ For every line cleared the tetris pieces fall slightly faster.
 If the tetris pieces reach the top, the game will be over.  
 The game is controlled using the arrowkeys.  
 Music and sound effects will play thoughout the game.  
+Link to live site:
+https://micloudon.github.io/Tetris/
  
     
       
